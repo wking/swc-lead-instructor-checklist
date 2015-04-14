@@ -9,3 +9,6 @@ With the other instructors, decide:
 
 This usually takes a few iterations, so don't leave it until the last
 minute.
+
+Be sure to allow enough time to set up on the first day, and for
+learners to fill in the post-workshop assessment on the last day.
