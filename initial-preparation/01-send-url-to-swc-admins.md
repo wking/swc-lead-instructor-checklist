@@ -1,5 +1,6 @@
 Send the workshop's URL to the SWC administrators
 
-So that they can add it to [the main web site][1].
+Mail it [here][admin] so that they can add it to [the main web site][list].
 
-[1]: http://software-carpentry.org/workshops/
+[admin]: mailto:admin@software-carpentry.org
+[list]: http://software-carpentry.org/workshops/
